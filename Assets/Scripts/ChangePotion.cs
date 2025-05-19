@@ -14,6 +14,6 @@ public class ChangePotion : MonoBehaviour
     }
     public void pointclicker()
     {
-        Player.GetComponent<Shooter>(gameObject.GetPrefabDefinition(ProjectilePrefab));
+        
     }
 }
